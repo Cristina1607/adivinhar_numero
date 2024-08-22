@@ -17,9 +17,9 @@ Descrição: Este é um projeto simples em Python onde o objetivo é criar um jo
 
 Instruções:
 
-Clone o repositório do projeto.
-Abra o terminal e navegue até o diretório do projeto.
-Execute o jogo usando Python 3.x.
-Siga as instruções no terminal para jogar.
-Opcionalmente, crie um fork do projeto e faça melhorias ou adaptações conforme desejar.
+1. Clone o repositório do projeto.
+2. Abra o terminal e navegue até o diretório do projeto.
+3. Execute o jogo usando Python 3.x.
+4. Siga as instruções no terminal para jogar.
+5. Opcionalmente, crie um fork do projeto e faça melhorias ou adaptações conforme desejar.
 Objetivo: O objetivo deste projeto é praticar lógica de programação e manipulação de números em Python, além de se familiarizar com a criação de pequenos jogos interativos no terminal.
