@@ -1,0 +1,17 @@
+import random
+
+def adivinhar_numero():
+    numero_secreto = random.randint(1, 100)
+    tentativas = 0
+    while True:
+        chute = int(input("adivinhe o número (1-100): "))
+        tentativas += 1
+        if chute < numero_secreto:
+            print("muito baixo!")
+        elif chute > numero_secreto:
+            print("muito alto!")
+        else:
+            print(f"parabéns! você adivinhou em {tentativas} tentativas.")
+            break
+
+adivinhar_numero()
