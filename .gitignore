@@ -1,0 +1,25 @@
+
+### .gitignore
+
+```plaintext
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env
+ Adivinhe o Número em Python
+
+Descrição: Este é um projeto simples em Python onde o objetivo é criar um jogo de adivinhação de números. O jogador deve adivinhar um número secreto gerado aleatoriamente pelo programa entre 1 e 100. A cada tentativa, o programa informa se o número chutado é muito baixo, muito alto ou se o jogador acertou. O jogo termina quando o número correto é adivinhado, e o número de tentativas é exibido.
+
+Instruções:
+
+Clone o repositório do projeto.
+Abra o terminal e navegue até o diretório do projeto.
+Execute o jogo usando Python 3.x.
+Siga as instruções no terminal para jogar.
+Opcionalmente, crie um fork do projeto e faça melhorias ou adaptações conforme desejar.
+Objetivo: O objetivo deste projeto é praticar lógica de programação e manipulação de números em Python, além de se familiarizar com a criação de pequenos jogos interativos no terminal.
