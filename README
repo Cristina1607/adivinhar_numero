@@ -16,7 +16,7 @@ Para executar o jogo, siga as etapas abaixo:
 1. Clone este repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/adivinhe-o-numero.git
+   git clone https://github.com/Cristina1607/adivinhe-o-numero.git
 2. Navegue até o diretório do projeto:
 cd adivinhe-o-numero
 3. Execute o script Python:
